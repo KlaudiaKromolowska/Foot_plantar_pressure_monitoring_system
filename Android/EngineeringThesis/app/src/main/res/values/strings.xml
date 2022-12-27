@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Monitor\n<br/>stóp</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">API_KEY</string>
+    <string name="todo">TODO</string>
+
+    <!-- Staring page -->
+    <string name="good_morning">Dzień dobry</string>
+    <string name="nice_to_see_you">Miło Cię znowu widzieć</string>
+    <string name="what_to_do_today">Od czego dziś zaczniemy?</string>
+    <string name="choose_something">Wybierz co tylko chcesz</string>
+    <string name="check_your_device">Sprawdź swoje urządzenie</string>
+
+    <!-- Settings -->
+    <string name="settings">Ustawienia</string>
+    <string name="manage_settings">Zarządzaj swoimi ustawieniami</string>
+    <string name="like_app">Aplikacja będzie taka jak lubisz!</string>
+    <string name="change_color">Zmień kolor wkładek:</string>
+    <string name="green">Odcienie zielonego</string>
+    <string name="pink">Odcienie różowego</string>
+    <string name="red">Odcienie czerwonego</string>
+    <string name="change_name_weight">Zmień imię i wagę:</string>
+    <string name="apply_changes">Zapisz zmiany</string>
+
+    <!-- Old runs -->
+    <string name="time">Czas</string>
+    <string name="speed">Prędkość</string>
+    <string name="distance">Dystans</string>
+    <string name="calories">Kalorie</string>
+    <string name="date">Data</string>
+    <string name="max_right_br">Max \n <br/>prawej</string>
+    <string name="avg_right_br">Średnia \n <br/>prawej</string>
+    <string name="max_left_br">Max \n <br/>lewej</string>
+    <string name="avg_left_br">Średnia \n <br/>lewej</string>
+    <string name="max_right">Max prawej</string>
+    <string name="avg_right">Średnia prawej</string>
+    <string name="max_left">Max lewej</string>
+    <string name="avg_left">Średnia lewej</string>
+    <string-array name="filter_options">
+        <item>Data</item>
+        <item>Czas</item>
+        <item>Kalorie</item>
+        <item>Dystans</item>
+        <item>Prędkość</item>
+        <item>Śr. lewej</item>
+        <item>Max lewej</item>
+        <item>Śr. prawej</item>
+        <item>Max prawej</item>
+
+
+    </string-array>
+    <string name="sort_by">Sortuj według:</string>
+
+    <!-- Statistics -->
+    <string name="avg_right_foot">Średnia \n<br/>prawej stopy</string>
+    <string name="max_right_foot">Max prawej stopy</string>
+    <string name="max_left_foot">Max \n <br/>lewej stopy</string>
+    <string name="avg_left_foot">Średnia \n <br/>lewej stopy</string>
+    <string name="chart_avg">Wykres średniej prędkości:</string>
+    <string name="chart_avg_right">Wykres średniego nacisku na prawą stopę:</string>
+    <string name="chart_avg_left">Wykres średniego nacisku na lewą stopę:</string>
+    <string name="_0km">0 km</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="_0kcal">0 kcal</string>
+    <string name="percent">0 %</string>
+    <string name="_0km_h">0 km/h</string>
+    <string name="_00_00_00_00">00:00:00:00</string>
+    <string name="whole_distance">Całkowity dystans</string>
+    <string name="burned_calories">Spalone kalorie</string>
+    <string name="average_speed">Średnia prędkość</string>
+    <string name="whole_time">Całkowity \n <br/>czas</string>
+
+
+    <!-- Configuration -->
+    <string name="hello_name_weight">Witaj, podaj swoje imię oraz obecną wagę:</string>
+    <string name="save">Zapisz</string>
+    <string name="your_name">Imię: </string>
+    <string name="your_weight">Waga: </string>
+
+    <!-- New run -->
+    <string name="end_run">Zakończ</string>
+    <string name="cancel_run_icon">Anuluj bieg</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+
+    <!-- Main menu -->
+    <string name="add_new_run">Dodaj nowy bieg</string>
+    <string name="old_runs">Archiwalne biegi</string>
+    <string name="statistics">Statystyki</string>
+
+    <!-- Insoles -->
+    <string name="your_insoles">Oto twoje wkładki</string>
+    <string name="press_start">Naciśnij start, aby zobaczyć działanie</string>
+    <string name="start_insoles">START</string>
+    <string name="stop_insoles">STOP</string>
+    <string name="is_accessed">false</string>
+    <string name="datas_changed_correctly">Zmienione dane zostały zapisane poprawnie!</string>
+    <string name="fill_fields_correctly">Uzupełnij wszystkie pola poprawnie</string>
+    <string name="fill_all_fields">Uzupełnij wszystkie pola</string>
+    <string name="name_too_short">Podane imię jest za krótkie</string>
+    <string name="weight_too_low">Wprowadzona waga jest za niska</string>
+    <string name="weight_too_high">Wprowadzona waga jest za wysoka</string>
+    <string name="app_name_notification">Monitor stóp</string>
+    <string name="user_permission_location_text">Musisz wyrazić zgodę na pobieranie lokalizacji, aby używać tej aplikacji.</string>
+    <string name="stop_notification">Zatrzymaj</string>
+    <string name="resume_notification">Wznów</string>
+    <string name="average_pressure">Średni nacisk</string>
+    <string name="run_is_saved">Bieg został zapisany!</string>
+    <string name="cancel_run_header">Anulowanie biegu</string>
+    <string name="cancel_run_dialog">Na pewno chcesz anulować bieg? Wszystkie dane zostaną utracone.</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+
+    <string name="error_bt_header">Błąd połączenia Bluetooth</string>
+    <string name="error_bt_dialog">Upewnij się, że oba urządzenia są sparowane ze smartfonem i pozostają włączone.</string>
+    <string name="understand">Rozumiem</string>
+    <string name="save_your_run_dialog">Zapisz bieg</string>
+</resources>
