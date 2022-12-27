@@ -1,4 +1,4 @@
-# System_monitorowania_nacisku_stop
+# Foot_plantar_pressure_monitoring_system
 
 The main goal of the project carried out as part of my engineering thesis was to implement a system that would allow monitoring the distribution of foot pressure on the ground.
 
